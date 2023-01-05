@@ -5,9 +5,9 @@
 | 1 | You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation. | [Link](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [✅](https://leetcode.com/problems/evaluate-reverse-polish-notation/submissions/869257819/) |
 | 2 | Combination Sum with a twist. | [Link](https://leetcode.com/problems/combination-sum-iii/) | [✅](https://leetcode.com/problems/combination-sum-iii/submissions/869891797/)  |
 | 3 | Bulls and Cows | [Link](https://leetcode.com/problems/bulls-and-cows/) | [✅](https://leetcode.com/problems/bulls-and-cows/submissions/870602533/) |
-| 4 | You are given an integer array nums of length n. Return maximum length of Rotation Function. | [Link](https://leetcode.com/problems/rotate-function/) |   |
-| 5 | Largest Divisible Subset. | [Link](https://leetcode.com/problems/largest-divisible-subset/) |   |
-| 6 | How to find a perfect Rectangle. | [Link](https://leetcode.com/problems/perfect-rectangle/) |   |
+| 4 | You are given an integer array nums of length n. Return maximum length of Rotation Function. | [Link](https://leetcode.com/problems/rotate-function/) |[✅]()|
+| 5 | Largest Divisible Subset. | [Link](https://leetcode.com/problems/largest-divisible-subset/) | [✅]()  |
+| 6 | How to find a perfect Rectangle. | [Link](https://leetcode.com/problems/perfect-rectangle/) |  |
 | 7 | Scheduling a Course | [Link](https://leetcode.com/problems/course-schedule/) |   |
 | 8 | Profitable Path in a Tree. | [Link](https://leetcode.com/problems/most-profitable-path-in-a-tree/) |   |
 | 9 | Number of Pairs satisfying Inequality. | [Link](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/) |   |
