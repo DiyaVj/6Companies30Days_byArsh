@@ -18,4 +18,4 @@ For complete details about the Challenge, go through the official doc and video:
 ## Companies:
 | S.No | Company | Questions Link | Date | Status |
 | ---- | ------- | -------------- | ---- | ------ |
-| 1    | Goldman Sachs | [Link](https://www.proelevate.in/dsa-practice/6-companies-30-days) | 1 January 2024 - 5 January 2024 |  |
+| 1    | Goldman Sachs | [Link](./Goldman%20Sachs%20-%201) | 1 January 2024 - 5 January 2024 | In Progress |
